@@ -1,5 +1,4 @@
-Hello! I'm Sumita Yadav, currently Pursuing Bsc IT from Jai Hind College, Mumbai-78
-My interest areas include Web designing, Machine Learning and Networking.
+Hello! I'm Sumita Yadav, currently working as a Software Engineer at LTIMindtree. My interest areas include, Backend web development using Core Java, Spring Framework,SpringBoot, Thymeleaf, React JS, etc.
 
 <!---
 Sumita2105/Sumita2105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
